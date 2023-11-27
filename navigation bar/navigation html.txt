@@ -1,0 +1,17 @@
+
+      <img class="logo" src="Zoo.png"/>
+      <nav class="navigation">
+        <a href="#" class="active">Home</a>
+        <a href="about.html">About</a>
+        <a href="#">Animals</a>
+        <a href="#">Map</a>
+        <a href="#">Education</a>
+        <a href="#">contact</a>
+
+       
+      </nav>
+      <nav class="navigation2">
+        <a href="#">Ticket</a>
+        <a href="#">Donation</a>
+        <a href="#">Adoption</a>
+      </nav>

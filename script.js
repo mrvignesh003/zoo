@@ -14,3 +14,11 @@ window.addEventListener("scroll", () => {
   hill5.style.left = value * 1.5 + "px";
   hill4.style.left = value * -1.5 + "px";
 });
+
+
+onload = () => {
+    const c = setTimeout(() => {
+      document.body.classList.remove("not-loaded");
+      clearTimeout(c);
+    }, 1000);
+  };
